@@ -1,0 +1,6 @@
+{
+  "name": "Delivery Analytics - D.i.f.y. & Fogo",
+  "description": "Dashboard executivo e comparativo de resultados de delivery dos restaurantes D.i.f.y. Comida Saudável e Fogo Steakhouse (Julho vs. Agosto 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
